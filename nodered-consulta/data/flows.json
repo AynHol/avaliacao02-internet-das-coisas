@@ -3,7 +3,7 @@
         "id": "c073de9ba7ed9db1",
         "type": "tab",
         "label": "IOT -> MQTT -> DB -> WS",
-        "disabled": false,
+        "disabled": true,
         "info": "",
         "env": []
     },
@@ -11,7 +11,7 @@
         "id": "46860586a1ef1f65",
         "type": "tab",
         "label": "IOT - HTTP",
-        "disabled": false,
+        "disabled": true,
         "info": "",
         "env": []
     },
